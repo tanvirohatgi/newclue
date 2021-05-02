@@ -1409,14 +1409,14 @@ a:hover.back-to-top {
 
 	.basic-2 .service-container {
 		display: inline-block;
-		width: 290px;
+		width: 217px;
 		vertical-align: top;
 	}
 	
-	.basic-2 .service-container:nth-of-type(3n+2) {
+	/* .basic-2 .service-container:nth-of-type(4n+3) {
 		margin-right: 1.5rem;
 		margin-left: 1.5rem;
-	}
+	} */
 
 	.basic-2 .service-wrapper {
 		margin-bottom: 3.5rem;
@@ -1537,7 +1537,7 @@ a:hover.back-to-top {
 	/* Extra Pages */
 	.ex-cards-1 .card {
 		display: inline-block;
-		width: 296px;
+		width: 286px;
 		vertical-align: top;
 	}
 
@@ -1601,13 +1601,13 @@ a:hover.back-to-top {
 
 	/* Services */
 	.basic-2 .service-container {
-		width: 340px;
+		width: 254px;
 	}
 	
-	.basic-2 .service-container:nth-of-type(3n+2) {
+	./* basic-2 .service-container:nth-of-type(4n+3) {
 		margin-right: 2.5rem;
 		margin-left: 2.5rem;
-	}
+	} */
 
 	.basic-2 .services-decoration {
 		height: 80px;
@@ -1697,7 +1697,7 @@ a:hover.back-to-top {
 
 	/* Extra Pages */
 	.ex-cards-1 .card {
-		width: 336px;
+		width: 326px;
 	}
 
 	.ex-cards-1 .card:nth-of-type(3n+2) {

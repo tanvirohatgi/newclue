@@ -74,11 +74,11 @@
         breakpoints: {
             // when window is <= 767px
             767: {
-                slidesPerView: 3
+                slidesPerView: 1
             },
             // when window is <= 991px
             991: {
-                slidesPerView: 3,
+                slidesPerView: 2,
             }
         }
     });
