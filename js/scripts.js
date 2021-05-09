@@ -14,7 +14,7 @@
 			        <li class="media">
 			            <span class="fa-stack">
 			                <span class="fas fa-circle fa-stack-2x"></span>
-			                <span class="fa-stack-1x">10</span>
+			                <span class="fa-stack-1x">${course.id}</span>
 			            </span>
 			            <div class="media-body">
 			                <h5>${course.title}</h5>

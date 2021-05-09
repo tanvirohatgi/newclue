@@ -60,32 +60,32 @@ past_courses = [
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 13,
 		"title": "SAP Basis",
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 14,
 		"title": "SAP Enterprise Portal (EP)",
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 15,
 		"title": "SAP Solution Manager IBM AIX",
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 16,
 		"title": "Red Hat",
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 17,
 		"title": "Java HTML",
 		"description": ""
 	},
 	{
-		"id": 12,
+		"id": 18,
 		"title": "IBM Smart Cloud Desk",
 		"description": ""
 	},

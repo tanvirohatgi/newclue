@@ -583,8 +583,13 @@ input[type='checkbox'] {
 }
 
 .header .h1-large {
-	margin-bottom: 5.5rem;
+	margin-bottom: 1rem;
 	text-align: center;
+}
+
+.header .description {
+	margin-bottom: 5.5rem;
+	text-align: justify;
 }
 
 .header .title-wrapper {
@@ -1361,8 +1366,13 @@ a:hover.back-to-top {
 	}
 
 	.header .h1-large {
+		margin-bottom: 1rem;
+		text-align: center;
+	}
+
+	.header .description {
 		margin-bottom: 9rem;
-		text-align: left;
+		text-align: justify;
 	}
 
 	.header .title-wrapper {
@@ -1567,6 +1577,10 @@ a:hover.back-to-top {
 	}
 
 	.header .h1-large {
+		margin-bottom: 1rem;
+	}
+
+	.header .description {
 		margin-bottom: 14rem;
 	}
 
