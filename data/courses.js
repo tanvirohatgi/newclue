@@ -89,4 +89,24 @@ past_courses = [
 		"title": "IBM Smart Cloud Desk",
 		"description": ""
 	},
+	{
+		"id": 19,
+		"title": "SAP HANA",
+		"description": ""
+	},
+	{
+		"id": 20,
+		"title": "SAP SOLMAN",
+		"description": ""
+	},
+	{
+		"id": 21,
+		"title": "SAP Enterprise Portal (EP)",
+		"description": ""
+	},
+	{
+		"id": 22,
+		"title": "Cyber Security",
+		"description": ""
+	},
 ]
